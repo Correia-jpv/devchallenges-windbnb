@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="REPLACE_URL">
+    <a href="https://devchallenges-windbnb-tan.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/SOLUTION_URL">
+    <a href="https://devchallenges.io/solutions/Qecu8QMT5MBC9zri8J5Z">
       Solution
     </a>
     <span> | </span>
