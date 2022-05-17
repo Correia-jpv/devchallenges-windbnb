@@ -68,7 +68,7 @@ const App = () => {
             <Grid item xs={12} sm={6} lg={4}>
               <Card sx={{ border: 0, boxShadow: 0, background: 'unset', height: '100%' }}>
                 <CardMedia>
-                  <LazyLoadImage src={stay.photo} alt={stay.title} width="100%" effect={'opacity'} style={{ borderRadius: '16px', aspectRatio: '394/267' }} />
+                  <LazyLoadImage src={stay.photo} alt={stay.title} width="100%" effect={'opacity'} style={{ borderRadius: '16px', aspectRatio: '394/267', objectFit: 'cover' }} />
                 </CardMedia>
                 <CardContent sx={{ padding: 0, paddingTop: '0.5em' }}>
                   <Box display={'flex'} justifyContent={'space-between'}>
